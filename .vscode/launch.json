@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-QuickstartApplication<quickstart>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.paoleon.quickstart.QuickstartApplication",
+            "projectName": "quickstart",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
